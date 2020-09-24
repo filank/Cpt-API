@@ -1,0 +1,10 @@
+.container2 {
+  color: white;
+  background-color: #3578e5;
+  border: 1px transparent;
+  border-radius: 20%;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+  height: 160px;
+}
